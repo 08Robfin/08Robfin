@@ -9,7 +9,7 @@ Kinda obsessed with automation, and making stuff “just work.”
 - **Live Discord Status Website** – pulls my Discord presence and updates my personal site in real time
 - **GitHub Auto Deploy** – every push updates my server instantly, no more dragging files around
 - **Minecraft SMPs** – managed with Pterodactyl.
-- **Self-Hosting Everything™** – Nextcloud, websites, Discord bots, maybe your mom’s blog next
+- **Self-Hosting Everything** – Nextcloud, websites, Discord bots, maybe your mom’s blog next
 
 ## 🔗 Links
 - 🌐 Website: [robfin.no](https://robfin.no)
